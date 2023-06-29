@@ -4,4 +4,10 @@ Hello 👋, This is AronnaxM
 
 The Language and Tools I use:
 
-![Static Badge](https://img.shields.io/badge/Tool-VScode-blue)
+![Static Badge](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue)
+![Static Badge](https://img.shields.io/badge/Tool-Visual%20Studio-purple)
+
+
+Communicate and Discuss With Me:
+
+![Discord](https://img.shields.io/discord/1123959669526900869?style=flat-square&logo=discord&color=blue)
