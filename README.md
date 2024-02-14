@@ -7,3 +7,6 @@ I'm currently learning Python, C#, Batch&Powershell.
 Communicate and Discuss With Me:
 
 ![Discord](https://img.shields.io/discord/1123959669526900869?style=flat-square&logo=discord&color=blue)
+
+
+<a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a>
